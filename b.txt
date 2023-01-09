@@ -1,1 +1,1 @@
-hello from branch A!
+hello!
